@@ -8,3 +8,8 @@ console.log(typeof str);     // string
 console.log(typeof bool);    // boolean
 console.log(typeof obj);     // object
 console.log(typeof arr);    //arrey
+let student = {
+    name:"favor",
+    age:"20",
+    adult: false, 
+}
