@@ -152,3 +152,4 @@ switch(newNumber){
     case (number>0):
         console.log('${newNumber} is a positive number')
 }
+// cases are boolean
